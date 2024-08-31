@@ -8,7 +8,6 @@ int main(int argc, char **argv){
 
     printf("Trung Huynh\n");
     printf("Major is undeclared\n");
-    printf("Test");
 
     return 0;
 }
